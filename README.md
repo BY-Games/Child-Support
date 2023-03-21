@@ -10,17 +10,20 @@ The game is based on a series of puzzles, and each stage presents a different ch
 The objective of the game is to save the child before the time runs out. The game is composed of short-term, medium-term, and long-term goals. The short-term goal is to move objects and obstacles, the medium-term goal is to move from region to region, and the long-term goal is to save the child.
 
 ## How to Play
-The player moves with the W,A,S,D keys and grabs objects with the mouse keys. The game presents prominent objects that will help the player, and there is an option for crying sounds or questioning NPC exploration of the environment and findings.
+The player moves with the W,A,S,D keys and grabs objects with the mouse keys. 
+The game presents prominent objects that will help the player, and there is an option for crying sounds or questioning NPC exploration of the environment and findings.
 
-To play the game, the player must first find the child by searching the map. Once the child is found, the player must then figure out how to best save him. This involves collecting resources and using them to overcome obstacles in the way of saving the child.
+To play the game, the player must first find the child by searching the map.
+Once the child is found, the player must then figure out how to best save him. 
+This involves collecting resources and using them to overcome obstacles in the way of saving the child.
 
 ## Features
-Single-player puzzle game
-Suitable for children aged 7 and up
-Requires critical thinking skills and problem-solving abilities
-Includes a variety of puzzles and obstacles to overcome
-Presents prominent objects that will help the player
-Option for crying sounds or questioning NPC exploration of the environment and findings.
+* Single-player puzzle game
+* Suitable for children aged 7 and up
+* Requires critical thinking skills and problem-solving abilities
+* Includes a variety of puzzles and obstacles to overcome
+* Presents prominent objects that will help the player
+* Option for crying sounds or questioning NPC exploration of the environment and findings.
 
 ## Requirements
 Unity 3D game engine 
@@ -28,4 +31,4 @@ Unity 3D game engine
 
 
 ## Credits
-Child-Support Game was developed by [Yosef](https://github.com/YosefKahlon) and [Barak](https://github.com/barakdf)
+Child-Support Game was developed by [Yosef](https://github.com/YosefKahlon) and [Barak](https://github.com/barakdf).

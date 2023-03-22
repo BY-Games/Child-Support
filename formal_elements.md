@@ -63,3 +63,30 @@
 המשחק יהיה מורכב.
 
 ## סקר שוק
+
+[Save The Baby](https://play.google.com/store/apps/details?id=com.AlexReutov.SaveTheBaby&hl=en_US) 
+משחק בו על האם לענות על שאלות הקשורות להורות וככה ללמוד איך להיות הורה טוב יותר . 
+המשחק שלנו יהיה יותר מענה ויאלץ את השחקן להפעיל חשיבה וילד את השחקן להתמודד עם מצבים מורכבים יותר הקיימים במשחק Save The Baby. 
+
+
+![image](https://user-images.githubusercontent.com/74779722/227048352-a8d80a0e-2769-4c56-96cb-0f8d8d04489c.png)
+
+
+[Who's Your Daddy?! - ](https://store.steampowered.com/app/427730/Whos_Your_Daddy/)
+
+הוא משחק מרובה משתתפים מזדמן הכולל אב חסר מושג המנסה למנוע מבנו התינוק מוות בטוח. 
+במשחק שלנו לילד יש רצון לחיות לעומת המשחק הנתון בו הילד מנסה למות.
+
+![image](https://user-images.githubusercontent.com/74779722/227048557-7ab2b493-7b29-4596-9f16-a59c0757de26.png)
+
+[Obama Saw Game 2](https://www.silvergames.com/en/obama-saw-game-2)
+
+מבוסס על סיפור הסרט "המסור", אובמה נקלע לאיומיו של ג'יגסו והוא צריך לברוח מהמבוך שהוא יצר. ע"י שימוש באובייקטים ופתירת חידות ופאזלים שנקרות בדרכו, אובמה יציל את המצב! 
+
+המטרה יותר חשובה במשחק שלנו (אובמה).
+
+
+![image](https://user-images.githubusercontent.com/74779722/227048693-e730e2eb-9d7e-46a3-969d-9cebaa71e1dd.png)
+![image](https://user-images.githubusercontent.com/74779722/227048706-43a01738-e1a3-4c73-b51c-126c47343da1.png)
+
+

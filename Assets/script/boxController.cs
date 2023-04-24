@@ -16,7 +16,7 @@ public class boxController : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         rb.gravityScale = 0;
     }
-
+    /*
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.collider.tag == "Player")
@@ -47,4 +47,5 @@ public class boxController : MonoBehaviour
             rb.isKinematic = false;
         }
     }
+    */
 }

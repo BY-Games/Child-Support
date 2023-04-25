@@ -12,7 +12,7 @@ The game is based on a series of puzzles, and each stage presents a different ch
 The objective of the game is to save the child before the time runs out. The game is composed of short-term, medium-term, and long-term goals. The short-term goal is to move objects and obstacles, the medium-term goal is to move from region to region, and the long-term goal is to save the child.
 
 ## How to Play
-The player moves with the W,A,S,D keys and grabs objects with the mouse keys. 
+The player moves with the Arrows keys and jump with space key. 
 The game presents prominent objects that will help the player, and there is an option for crying sounds or questioning NPC exploration of the environment and findings.
 
 To play the game, the player must first find the child by searching the map.

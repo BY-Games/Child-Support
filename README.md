@@ -1,6 +1,8 @@
 # Child-Support
 A puzzles game where a mother  has to save her child from dangerous scenario.
 
+[Play on itch.io](https://by-games.itch.io/child-support)
+
 ## Overview
 Child-Support Game is a single-player puzzle game designed for children aged 7 and up with a low level of experience in puzzle games.The game takes place in all kinds of places where the child causes trouble for the mother such as the home, the neighborhood or even a construction site, and the player takes on the role of the child's mother who must find and save her child.
 

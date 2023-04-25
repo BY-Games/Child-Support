@@ -14,9 +14,9 @@ public class boxController : MonoBehaviour
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        rb.gravityScale = 0;
+       // rb.gravityScale = 0;
     }
-    /*
+    
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.collider.tag == "Player")
@@ -38,14 +38,14 @@ public class boxController : MonoBehaviour
 
 
         // If the player is standing on the box, set its Rigidbody2D to kinematic
-        if (isStandingOnBox)
-        {
-            rb.isKinematic = true;
-        }
-        else
-        {
-            rb.isKinematic = false;
-        }
+       // if (isStandingOnBox)
+       // {
+      //      rb.isKinematic = true;
+      //  }
+       // else
+      //  {
+       //     rb.isKinematic = false;
+       // }
     }
-    */
+    
 }

@@ -66,26 +66,27 @@ public class InputMover : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D c)
     {
 
-        if (c.collider.tag == "Ground"  )
+        if (c.collider.tag == "Ground")
         {
 
             isTouchingTheGround = true;
-          
+
         }
-        if(c.collider.tag == "box")
+
+        if (c.collider.tag == "box")
         {
             isTouchingTheBox = true;
         }
 
-       
-          
-        
+
+
+
 
     }
 
     private void OnCollisionExit2D(Collision2D c)
     {
-        if (c.collider.tag == "Ground"  )
+        if (c.collider.tag == "Ground")
         {
             isTouchingTheGround = false;
         }
@@ -180,7 +181,8 @@ public class InputMover : MonoBehaviour
             playerWantsToJump = false;
 
 
-        }else if (playerWantsToJump && isTouchingTheBox && velocity.y <= 0)
+        }
+        else if (playerWantsToJump && isTouchingTheBox && velocity.y <= 0)
         {
             Debug.Log("Jumping!");
 
